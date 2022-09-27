@@ -1,0 +1,2 @@
+# Association-Rule-Based-Recommender-System
+Armut, Turkey's largest online service platform, brings together service providers and those who want to receive service. You can easily access services such as cleaning, renovation, transportation with a few taps on your computer or smartphone. provides access. Using the data set containing the service users and the services and categories these users have received, Association It is desired to create a product recommendation system with Rule Learning.
